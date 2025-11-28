@@ -35,6 +35,10 @@ export const Grid = () => {
                 <div className="box">Flex Common 2</div>
                 <div className="box">Flex Common 3</div>
             </div>
+            <div className="checkbox">
+                <input type="checkbox" />
+                <label>Custom Checkbox</label>
+            </div>
         </div>
     )
 }
